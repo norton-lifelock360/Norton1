@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.pngtree.com	TRUE	/	FALSE	1999999999	__cf_bm	Wxy5KTP9xLjyDVDef6gKfxXd8KRjjtoWAtNrng5Ew.E-1717083223-1.0.1.1-mw8FXZuHk4rDmk88g._5pq1xWnwzem0Su_CzXZtJ.a4nR9Qu0WO232EUgJ3.0yziy1yl_s3mkxXURNdxypHoPA
+png.pngtree.com	TRUE	/	FALSE	1999999999	SameSite	None
+
